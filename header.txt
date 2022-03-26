@@ -1,4 +1,7 @@
 some tekst
-changes from <master> - new changes
 
+changes from <master> - new changes
+Changes from <first>
+
+text from master: new changes
 
